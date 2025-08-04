@@ -1,0 +1,5 @@
+binance
+pandas
+requests
+python-dotenv
+termcolor
